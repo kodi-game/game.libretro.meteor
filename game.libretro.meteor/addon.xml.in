@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.meteor"
-		name="Game Boy Advance (Meteor)"
+		name="Nintendo - Game Boy Advance (Meteor)"
 		version="1.4.0"
 		provider-name="Libretro">
 	<requires>
@@ -17,7 +17,7 @@
 		<supports_mouse>false</supports_mouse>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<summary lang="en">Game Boy Advance (Meteor) v1.4</summary>
+		<summary lang="en">Nintendo - Game Boy Advance (Meteor) v1.4</summary>
 		<description>Meteor is a Nintendo Gameboy Advance emulator.
 
 Authors: Philippe Daouadi &lt;p.daouadi@free.fr&gt;, Hans-Kristian Arntzen (libretro port and fixes) &lt;maister@archlinux.us&gt;
