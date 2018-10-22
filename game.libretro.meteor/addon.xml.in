@@ -23,6 +23,7 @@ Authors: Philippe Daouadi &lt;p.daouadi@free.fr&gt;, Hans-Kristian Arntzen (libr
 Supported files: .gba</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
+		<source>https://github.com/kodi-game/game.libretro.meteor</source>
 		<assets>
 			<screenshot>resources/screenshot-01.jpg</screenshot>
 			<screenshot>resources/screenshot-02.jpg</screenshot>
