@@ -1,1 +1,1 @@
-meteor https://github.com/libretro/meteor-libretro master
+meteor https://github.com/libretro/meteor-libretro/archive/f8ab66ce5f68991bf9f926bf1dd5b662abd9d74b.zip
