@@ -2,7 +2,7 @@
 <addon id="game.libretro.meteor"
 		name="Nintendo - Game Boy Advance (Meteor)"
 		version="1.4.0.5"
-		provider-name="Libretro">
+		provider-name="Philippe Daouadi">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.gba" version="1.0.0"/>
