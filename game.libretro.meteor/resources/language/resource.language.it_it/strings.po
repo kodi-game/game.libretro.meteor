@@ -23,4 +23,3 @@ msgstr ""
 msgctxt "Addon Description"
 msgid "Meteor is a Nintendo Gameboy Advance emulator."
 msgstr ""
-
