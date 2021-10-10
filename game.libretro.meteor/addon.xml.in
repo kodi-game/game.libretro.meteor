@@ -29,6 +29,6 @@
 		<description lang="en_GB">Meteor is a Nintendo Gameboy Advance emulator.</description>
 		<description lang="ko_KR">Meteor는 닌텐도 게임보이 어드밴스 에뮬레이터입니다.</description>
 		<description lang="zh_CN">Meteor 是任天堂 Gameboy Advance 游戏机模拟器。</description>
-		<disclaimer lang="en_GB">Authors: Philippe Daouadi <p.daouadi@free.fr>, Hans-Kristian Arntzen (libretro port and fixes) <maister@archlinux.us></disclaimer>
+		<disclaimer lang="en_GB">Authors: Philippe Daouadi (p.daouadi@free.fr), Hans-Kristian Arntzen (maister@archlinux.us)</disclaimer>
 	</extension>
 </addon>

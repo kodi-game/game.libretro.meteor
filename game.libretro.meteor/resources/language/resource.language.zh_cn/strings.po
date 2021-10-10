@@ -26,5 +26,5 @@ msgid "Meteor is a Nintendo Gameboy Advance emulator."
 msgstr "Meteor 是任天堂 Gameboy Advance 游戏机模拟器。"
 
 msgctxt "Addon Disclaimer"
-msgid "Authors: Philippe Daouadi <p.daouadi@free.fr>, Hans-Kristian Arntzen (libretro port and fixes) <maister@archlinux.us>"
+msgid "Authors: Philippe Daouadi (p.daouadi@free.fr), Hans-Kristian Arntzen (maister@archlinux.us)"
 msgstr ""
