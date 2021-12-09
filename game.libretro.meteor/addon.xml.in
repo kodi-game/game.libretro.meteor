@@ -32,5 +32,6 @@
 		<description lang="zh_CN">Meteor 是任天堂 Gameboy Advance 游戏机模拟器。</description>
 		<disclaimer lang="da_DK">Udviklere: Philippe Daouadi (p.daouadi@free.fr), Hans-Kristian Arntzen (maister@archlinux.us)</disclaimer>
 		<disclaimer lang="en_GB">Authors: Philippe Daouadi (p.daouadi@free.fr), Hans-Kristian Arntzen (maister@archlinux.us)</disclaimer>
+		<disclaimer lang="ko_KR">저자: Philippe Daouadi(p.daouadi@free.fr), Hans-Kristian Arntzen(maister@archlinux.us)</disclaimer>
 	</extension>
 </addon>
