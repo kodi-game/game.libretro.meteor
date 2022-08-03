@@ -33,5 +33,6 @@
 		<disclaimer lang="da_DK">Udviklere: Philippe Daouadi (p.daouadi@free.fr), Hans-Kristian Arntzen (maister@archlinux.us)</disclaimer>
 		<disclaimer lang="en_GB">Authors: Philippe Daouadi (p.daouadi@free.fr), Hans-Kristian Arntzen (maister@archlinux.us)</disclaimer>
 		<disclaimer lang="ko_KR">저자: Philippe Daouadi(p.daouadi@free.fr), Hans-Kristian Arntzen(maister@archlinux.us)</disclaimer>
+		<disclaimer lang="zh_CN">作者：Philippe Daouadi（p.daouadi@free.fr)，Hans Kristian Arntzen（maister@archlinux.us）</disclaimer>
 	</extension>
 </addon>
