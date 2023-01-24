@@ -13,7 +13,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.meteor/resources/icon.png)
+![Nintendo - Game Boy Advance (Meteor) icon](game.libretro.meteor/resources/icon.png)
 
 ### Fanart
 
@@ -21,9 +21,9 @@ Help make me fanart!
 
 ### Screenshots
 
-![Screenshot](game.libretro.meteor/resources/screenshot-01.jpg)
-![Screenshot](game.libretro.meteor/resources/screenshot-02.jpg)
-![Screenshot](game.libretro.meteor/resources/screenshot-03.jpg)
+![Nintendo - Game Boy Advance (Meteor) screenshot](game.libretro.meteor/resources/screenshot-01.jpg)
+![Nintendo - Game Boy Advance (Meteor) screenshot](game.libretro.meteor/resources/screenshot-02.jpg)
+![Nintendo - Game Boy Advance (Meteor) screenshot](game.libretro.meteor/resources/screenshot-03.jpg)
 
 ### Disclaimer
 
