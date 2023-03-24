@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - Game Boy Advance (Meteor) v1.4"
+msgid "Nintendo - Game Boy Advance (Meteor)"
 msgstr ""
 
 msgctxt "Addon Description"
