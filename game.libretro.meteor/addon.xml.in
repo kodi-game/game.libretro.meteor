@@ -26,6 +26,7 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">Nintendo - Game Boy Advance (Meteor)</summary>
+		<summary lang="es_ES">Nintendo - Game Boy Advance (Meteor)</summary>
 		<description lang="da_DK">Meteor er en Nintendo Gameboy Advance-emulator.</description>
 		<description lang="de_DE">Meteor ist ein Emulator für Nintendo Gameboy Advance.</description>
 		<description lang="en_GB">Meteor is a Nintendo Gameboy Advance emulator.</description>
