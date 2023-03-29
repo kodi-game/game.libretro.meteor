@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.meteor.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.meteor)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.meteor?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-meteor)
-
 # Nintendo - Game Boy Advance (Meteor)
 
 ### Description
